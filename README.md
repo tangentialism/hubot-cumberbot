@@ -1,4 +1,4 @@
-hubot-sassy-dancer
+hubot-cumberbot
 ==================
 
 Because your goofy and excited Hubot-based chatbot is a huge fan of the actor Benedict Cumberbatch, but is nearly incapable of spelling his name correctly.
